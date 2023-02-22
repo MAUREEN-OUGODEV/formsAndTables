@@ -1,0 +1,102 @@
+
+        body{
+            margin: 0%;
+            padding:0%
+        }  
+        .picture{
+            background: url(./images/table.jpg);
+            background: cover;
+            background-position: center;
+            height:100%;
+            width:50%;
+            position: fixed;
+        }
+        .hase{
+            font-size: 15px;
+        }
+        .parag{
+            background-color: rgba(248, 252, 252, 0.7) ;
+            color: aliceblue;
+            text-align: center;
+            width:80%;
+            margin-top: 100px;
+            font-size: 30px;
+            margin-left: 100px;
+            margin-right: 100px;
+            float:left;
+            
+        }
+        .checkbox{
+            display:flex ;
+            padding: 20px;
+        }
+        .par{
+            margin: 5%;
+        }
+        
+        
+        .landpage{
+            float: right;
+            margin-right: 20%;
+           
+            
+        }
+       
+        
+        img{
+            height: 50px;
+        }
+        .text{
+            padding: 10px 100px 10px 100px;
+            border-radius: 5px;
+           
+          border: 1px solid rgba(225, 221, 231, 0.7);;
+            padding-left: 30px;  
+        }
+        .button{
+            padding:10px 150px 10px 150px;
+            background-color: rgba(85, 5, 235, 0.938);
+            border-style: none;
+            border-radius: 5px;
+            color: blanchedalmond;
+        }
+    
+      
+        .play{
+            height: 80px;
+        }
+        .gone{
+            color: black;
+        }
+        a{
+            color: rgb(31, 30, 28);
+            font-size: 15px;
+            font-weight: bold;
+        }
+        a :hover{
+            text-decoration: none;
+
+        }
+        a:link { 
+            text-decoration: none;
+        }
+        .end{
+            position: fixed;
+        border: 1px solid grey;
+            border: none;
+            padding: 10px 20px 10px 20px;
+        }
+        .end img{
+        margin-top: 15px;
+            height: 20px;
+        }
+        
+        .end p{
+            float: right;
+        
+       
+     }
+    
+        
+        
+    
